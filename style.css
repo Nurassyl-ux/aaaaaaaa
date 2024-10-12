@@ -1,0 +1,65 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inconsolata", monospace;
+    background-image: url(pepsi.jpg) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    
+
+}
+
+section {
+    background-color: white;
+    width: 400px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: "Inconsolata", monospace;
+    font-size: 24px;
+    color: #262e4a;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: #262e4a;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #c78b34;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #262e4a;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    
+}
+.xxx {
+    
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px 10px 400px;
+}
+
+.too {
+    width: 60px;
+    height: 60px;
+}
